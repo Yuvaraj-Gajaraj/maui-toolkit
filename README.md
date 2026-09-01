@@ -29,7 +29,7 @@ The Syncfusion® Toolkit is built with community collaboration in mind, aiming t
 
 Analyze Xamarin.Forms solutions and identify what stands between your application and .NET MAUI. The tool generates a self-contained HTML report with migration findings, risks, effort estimates, and recommended next steps.
 
-[Get Started with the Xamarin MAUI Migration Advisor](https://github.com/syncfusion/Xamarin-MAUI-Migration-Advisor)
+[Get Started with the Xamarin to .NET MAUI Migration Advisor](https://github.com/syncfusion/Xamarin-MAUI-Migration-Advisor)
 
 ## Microsoft Collaboration
 
